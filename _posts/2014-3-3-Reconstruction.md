@@ -1,9 +1,7 @@
 ---
 layout: post
-title: The Site You Seek
+title: Reconstruction
 ---
-
-(Just a post template to save here.)
 
 Bear with me while I sort through old links and code and add to a new Github site (as my old ones are a melange of whatsit). Meanwhile:
 

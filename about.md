@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Margot VS Burns. Writer, developer, designer, hobbyist, hacker. Put in many years at Citigroup, Time Inc, Deloitte Touche; and many months at small firms, big publishers, and ad agencies. Front-end development (sometimes full-stack), content management, UI/UX design, illustration.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+If you’ve come here you probably aren’t looking for Further and Better Particulars, but they are available upon request.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[margotvsburns@gmail.com](mailto:margotvsburns@gmail.com)
